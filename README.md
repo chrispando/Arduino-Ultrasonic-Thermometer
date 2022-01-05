@@ -1,5 +1,5 @@
 # Arduino-Ultrasonic-Thermometer
-Take the temperature of the room when ultrasonic sensor is triggered.
+Takes the temperature of the room when ultrasonic sensor is triggered.
 For more information, please see the following tutorials:<br>
 https://create.arduino.cc/projecthub/arcaegecengiz/using-dht11-b0f365 <br>
 https://www.hive-rd.com/blog/arduino-dht11-output-lcd-module/ <br>
